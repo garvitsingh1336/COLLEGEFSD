@@ -1,0 +1,15 @@
+.navlist {
+    display: flex;
+    justify-content: center;
+    align-items: center; /* Vertically center items */
+    gap: 20px; /* Optional: adds spacing between items */
+    list-style: none; /* Removes default bullet points */
+    margin: 10px;
+    background-color:aliceblue
+}
+
+.navlist li a {
+    text-decoration: none;
+    font-size: 20px;
+    color: #333; /* Customize as needed */
+}
